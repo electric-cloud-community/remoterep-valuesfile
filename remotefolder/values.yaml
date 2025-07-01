@@ -1,0 +1,6 @@
+
+initContainer:
+  resources:
+    requests:
+      memory: 12Mi
+      cpu: 12m
